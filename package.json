@@ -1,6 +1,6 @@
 {
   "name": "smile-npm-emoji-lol",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package that turns empty spaces into smile emojis",
   "main": "index.js",
   "scripts": {
