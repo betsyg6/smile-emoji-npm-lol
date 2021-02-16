@@ -1,0 +1,11 @@
+{
+  "name": "smile-npm-emoji-lol",
+  "version": "1.0.0",
+  "description": "A package that turns empty spaces into smile emojis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "betsyg6",
+  "license": "ISC"
+}
