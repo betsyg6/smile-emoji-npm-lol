@@ -1,5 +1,6 @@
 function smile(string) {
-	if (typeof string !== 'string') throw new TypeError('Tiny wants a string!');
+	if (typeof string !== 'string')
+		throw new TypeError('i need a string please!');
 	return string.replace(/\s/g, '😆');
 }
 
