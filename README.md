@@ -1,5 +1,5 @@
-# @betsyg6/smile-emoji-npm-lol
+# @betsyg6/smile-npm-emoji-lol
 
-![](https://img.shields.io/badge/smile--emoji--npm--lol-v.%201.0.1-blueviolet)
+![](https://img.shields.io/badge/smile--npm--emoji--lol-v.%201.0.1-blueviolet)
 
 😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆
